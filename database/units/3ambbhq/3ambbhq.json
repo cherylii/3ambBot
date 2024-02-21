@@ -1,0 +1,177 @@
+{
+    "members": {
+        "DJ951J": {
+            "id": 549070970,
+            "name": "DJ",
+            "nric": "XXXXX951J",
+            "rank": "CPT",
+            "appointment": "S4",
+            "branch": "S4 BR",
+            "contact": "+6581238571",
+            "medicalstatus": {},
+            "vacationLeaveDaysLeft": 14,
+            "compassionateLeaveDaysLeft": 3
+        },
+        "ZeKai620H": {
+            "id": 1077699436,
+            "name": "Ze Kai",
+            "nric": "XXXXX620H",
+            "rank": "2LT",
+            "appointment": "",
+            "branch": "S4 BR",
+            "contact": "90084568",
+            "medicalstatus": {},
+            "vacationLeaveDaysLeft": 14,
+            "compassionateLeaveDaysLeft": 3
+        },
+        "Zulhus998D": {
+            "id": 828129569,
+            "name": "Zulhusni",
+            "nric": "XXXXX998D",
+            "rank": "PTE",
+            "appointment": "Toolstore Clerk",
+            "branch": "S4 BR",
+            "contact": "86574729",
+            "medicalstatus": {},
+            "vacationLeaveDaysLeft": 14,
+            "compassionateLeaveDaysLeft": 3
+        },
+        "HieDao526G": {
+            "id": 1978318531,
+            "name": "Hie Dao Qiu",
+            "nric": "XXXXX526G",
+            "rank": "ME2",
+            "appointment": "BHQ Toolstore IC",
+            "branch": "S4 BR",
+            "contact": "97325805",
+            "medicalstatus": {},
+            "vacationLeaveDaysLeft": 14,
+            "compassionateLeaveDaysLeft": 3
+        },
+        "Muhamm626Z": {
+            "id": 154982087,
+            "name": "Muhammad Syafi'in",
+            "nric": "XXXXX626Z",
+            "rank": "ME2",
+            "appointment": "",
+            "branch": "S4 BR",
+            "contact": "+6591517915",
+            "medicalstatus": {},
+            "vacationLeaveDaysLeft": 14,
+            "compassionateLeaveDaysLeft": 3
+        },
+        "MohdIr175D": {
+            "id": 1402928332,
+            "name": "Mohd Irfan ",
+            "nric": "XXXXX175D",
+            "rank": "",
+            "appointment": "",
+            "branch": "S4 BR",
+            "contact": "+6589295809",
+            "medicalstatus": {},
+            "vacationLeaveDaysLeft": 14,
+            "compassionateLeaveDaysLeft": 3
+        },
+        "Westle162J": {
+            "id": 6592467780,
+            "name": "Wesley Seow",
+            "nric": "XXXXX162J",
+            "rank": "LCP",
+            "appointment": "B&I Clerk",
+            "branch": "S4 BR",
+            "contact": "+6597775049",
+            "medicalstatus": {},
+            "vacationLeaveDaysLeft": 14,
+            "compassionateLeaveDaysLeft": 3
+        },
+        "MuhdSa367A": {
+            "id": 6047885950,
+            "name": "Muhd Saifuddin",
+            "nric": "XXXXX367A",
+            "rank": "LCP",
+            "appointment": "",
+            "branch": "S4 BR",
+            "contact": "+6594467774",
+            "medicalstatus": {},
+            "vacationLeaveDaysLeft": 14,
+            "compassionateLeaveDaysLeft": 3
+        }
+    },
+    "paradeState": {
+        "present": [],
+        "mc": [],
+        "leave": [],
+        "awol": [],
+        "ma": [],
+        "inCharge": []
+    },
+    "absence": {
+        "DJ951J": {
+            "mc": [],
+            "leave": [],
+            "ma": []
+        },
+        "ZeKai620H": {
+            "mc": [],
+            "leave": [],
+            "ma": [
+                {
+                    "reason": "MA",
+                    "date": "23/01/2024",
+                    "time": "1000",
+                    "location": "Paragon"
+                }
+            ]
+        },
+        "Zulhus998D": {
+            "mc": [],
+            "leave": [
+                {
+                    "leavetype": "Vacation",
+                    "startdate": "16/01/2024",
+                    "enddate": "16/01/2024",
+                    "approvedby": "-",
+                    "member": "Zulhus998D",
+                    "branch": "S4 BR"
+                }
+            ],
+            "ma": []
+        },
+        "HieDao526G": {
+            "mc": [],
+            "leave": [],
+            "ma": []
+        },
+        "Muhamm626Z": {
+            "mc": [],
+            "leave": [],
+            "ma": []
+        },
+        "MohdIr175D": {
+            "mc": [],
+            "leave": [],
+            "ma": []
+        },
+        "Westle162J": {
+            "mc": [
+                {
+                    "reason": "Vomiting/dizziness",
+                    "mcnumber": "0",
+                    "startdate": "17/01/2024",
+                    "enddate": "19/01/2024",
+                    "member": "Westle162J",
+                    "branch": "S4 BR"
+                }
+            ],
+            "leave": [],
+            "ma": []
+        },
+        "MuhdSa367A": {
+            "mc": [],
+            "leave": [],
+            "ma": []
+        }
+    },
+    "pastParadeState": {},
+    "pastAbsence": {}
+}

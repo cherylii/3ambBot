@@ -1,0 +1,50 @@
+{
+    "-1002117963151": {
+        "id": "3ambtest",
+        "name": "test server for 3rd army maintenance base",
+        "admins": [
+            6476886611
+        ],
+        "allMembers": [
+            6476886611
+        ],
+        "database": "nhN7PbZX-3ambtest",
+        "dateCreated": 1705233822672,
+        "requiredFields": [
+            "name",
+            "maskedic"
+        ]
+    },
+    "-4011831126": {
+        "id": "3ambbhq",
+        "name": "3rd Army Maintenance Base BHQ",
+        "admins": [
+            6476886611
+        ],
+        "allMembers": [
+            6476886611
+        ],
+        "database": "uyXKmu7Q-3ambbhq",
+        "dateCreated": 1705271535083,
+        "requiredFields": [
+            "name",
+            "maskedic"
+        ]
+    },
+    "-4046905507": {
+        "id": "3ambs4",
+        "name": "test",
+        "admins": [
+            6476886611
+        ],
+        "allMembers": [
+            6476886611
+        ],
+        "database": "KOOdhbit-3ambs4",
+        "dateCreated": 1705720704235,
+        "requiredFields": [
+            "name",
+            "maskedic"
+        ]
+    }
+}

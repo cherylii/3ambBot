@@ -1,0 +1,16 @@
+{
+    "6497820371": {
+        "name": "Akina Fuyutaka",
+        "maskedic": "789Z",
+        "birthday": "2003-04-14",
+        "contact": "98761234",
+        "description": "Winter of Stars!",
+        "primaryGroup": 6497820371,
+        "inGroups": {
+            "-4058723971" : {
+                "joinedDate": 17792683450,
+                "isAdmin?": false
+            }
+        }
+    }
+}

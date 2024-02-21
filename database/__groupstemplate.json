@@ -1,0 +1,18 @@
+{
+    "-4058723971": {
+        "id": "3AMB",
+        "name": "3rd Army Maintenance Base",
+        "admins": [
+            6497820371
+        ],
+        "allMembers": [
+            6497820371
+        ],
+        "database": "zB8jiQ1d-3amb.xlsx",
+        "dateCreated": 17097563590,
+        "requiredFields": [
+            "name",
+            "maskedic"
+        ]
+    }
+}

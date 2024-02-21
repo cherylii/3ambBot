@@ -1,0 +1,35 @@
+{
+    "members": {
+        "Fayth523B": {
+            "id": 6476886611,
+            "name": "Fayth",
+            "nric": "XXXXX523B",
+            "rank": "",
+            "appointment": "",
+            "branch": "",
+            "contact": "90891702",
+            "medicalstatus": {},
+            "vacationLeaveDaysLeft": 14,
+            "compassionateLeaveDaysLeft": 3
+        }
+    },
+    "paradeState": {
+        "present": [
+            "Fayth523B"
+        ],
+        "mc": [],
+        "leave": [],
+        "awol": [],
+        "ma": [],
+        "inCharge": []
+    },
+    "absence": {
+        "Fayth523B": {
+            "mc": [],
+            "leave": [],
+            "ma": []
+        }
+    },
+    "pastParadeState": {},
+    "pastAbsence": {}
+}

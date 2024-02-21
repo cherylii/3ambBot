@@ -1,0 +1,203 @@
+{
+    "members": {
+        "Bob123B": {
+            "id": "123123123123123",
+            "name": "Bob Just Bob",
+            "nric": "T03456123B",
+            "rank": "ME3",
+            "appointment": "S4",
+            "branch": "S4",
+            "contact": "92341234",
+            "medicalStatus": [
+                {
+                    "name": "Stay In",
+                    "startDate": null,
+                    "endDate": null,
+                    "isPermanent?": true
+                }
+            ],
+            "vacationLeaveDaysLeft": 14,
+            "compassionateLeaveDaysLeft": 2
+        },
+        "Clarice123C": {
+            "id": "456456456456",
+            "name": "Clarice Wee Xue Yi",
+            "contact": "91234123",
+            "nric": "T03456123C",
+            "rank": "LCP",
+            "appointment": "Finance Clerk",
+            "branch": "S4",
+            "medicalStatus": [
+                {
+                    "name": "Stay In",
+                    "startDate": null,
+                    "endDate": null,
+                    "isPermanent?": true
+                }
+            ],
+            "vacationLeaveDaysLeft": 11,
+            "compassionateLeaveDaysLeft": 2
+        }
+    },
+    "paradeState": {
+        "present": [
+            "Amy123A",
+            "Dahlia123D"
+        ],
+        "mc": [
+            "Clarice123C"
+        ],
+        "leave": [
+            "Bob123B"
+        ],
+        "awol": [
+            "Elieen123E"
+        ],
+        "ma": [],
+        "inCharge": [
+            "Amy123A"
+        ]
+    },
+    "absence": {
+        "Bob123B": {
+            "mc": [],
+            "leave": [
+                {
+                    "type": "Compassionate",
+                    "startDate": "2023-12-19",
+                    "endDate": "2023-12-21",
+                    "absentReason": "Hospitalisation of Spouse",
+                    "offApproved": null
+                }
+            ],
+            "ma": []
+        },
+        "Clarice123C": {
+            "absentReason": "Total Organ Failure",
+            "mc": {
+                "mcNumber": "12349876111",
+                "startDate": "2023-12-19",
+                "endDate": "2023-12-21"
+            },
+            "leave": null,
+            "ma": {
+                "attended?": false,
+                "date": "2023-12-27",
+                "time": "1500",
+                "location": "NHGP Ang Mo Kio Polyclinic"
+            }
+        }
+    },
+    "pastParadeState": {
+        "2023": {
+            "12": {
+                "19": {
+                    "present": [
+                        "Amy123A",
+                        "Bob123B",
+                        "Dahlia123D"
+                    ],
+                    "mc": [
+                        "Clarice123C"
+                    ],
+                    "leave": [],
+                    "awol": [
+                        "Elieen123E"
+                    ],
+                    "ma": [],
+                    "inCharge": [
+                        "Amy123A"
+                    ]
+                },
+                "20": {
+                    "present": [
+                        "Amy123A",
+                        "Dahlia123D"
+                    ],
+                    "mc": [
+                        "Clarice123C"
+                    ],
+                    "leave": [
+                        "Bob123B"
+                    ],
+                    "awol": [
+                        "Elieen123E"
+                    ],
+                    "ma": [],
+                    "inCharge": [
+                        "Bob123B",
+                        "Dahlia123D"
+                    ]
+                }
+            }
+        }
+    },
+    "pastAbsence": {
+        "2023": {
+            "12": {
+                "19": {
+                    "mc": [
+                        {
+                            "Clarice123C": {
+                                "mcNumber": "12349876111",
+                                "startDate": "2023-12-19",
+                                "endDate": "2023-12-21",
+                                "absentReason": "Total Organ Failure"
+                            }
+                        }
+                    ],
+                    "leave": [
+                        {
+                            "Bob123B": {
+                                "type": "Compassionate",
+                                "startDate": "2023-12-19",
+                                "endDate": "2023-12-21",
+                                "absentReason": "Hospitalisation of Spouse",
+                                "offApproved": null
+                            }
+                        }
+                    ],
+                    "awol": [
+                        {
+                            "Elieen123E": {
+                                "date": "2023-12-19",
+                                "reason": null
+                            }
+                        }
+                    ],
+                    "ma": []
+                },
+                "21": {
+                    "mc": [],
+                    "leave": [
+                        {
+                            "Dahlia123D": {
+                                "type": "Off",
+                                "startDate": "2023-12-21",
+                                "endDate": "2023-12-21",
+                                "absentReason": "Approved Off",
+                                "offApproved": "Bob123B"
+                            }
+                        }
+                    ],
+                    "awol": []
+                },
+                "27": {
+                    "mc": [],
+                    "leave": [],
+                    "awol": [],
+                    "ma": [
+                        {
+                            "Clarice123C": {
+                                "attended?": true,
+                                "date": "2023-12-27",
+                                "time": "1500",
+                                "location": "NHGP Ang Mo Kio Polyclinic"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

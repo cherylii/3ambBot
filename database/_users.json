@@ -1,0 +1,147 @@
+{
+    "154982087": {
+        "name": "Muhammad Syafi'in",
+        "maskedic": "626Z",
+        "birthday": "1992-07-23",
+        "contact": "+6591517915",
+        "description": "None",
+        "primaryGroup": -4011831126,
+        "inGroups": {
+            "-4011831126": {
+                "memberName": "Muhamm626Z",
+                "joinedDate": 1705321182848,
+                "isAdmin?": false
+            }
+        }
+    },
+    "549070970": {
+        "name": "DJ",
+        "maskedic": "951J",
+        "birthday": "1991-12-23",
+        "contact": "+6581238571",
+        "description": "S4 3AMB",
+        "primaryGroup": -1002117963151,
+        "inGroups": {
+            "-1002117963151": {
+                "memberName": "DJ951J",
+                "joinedDate": 1704940706204,
+                "isAdmin?": false
+            },
+            "-4011831126": {
+                "memberName": "DJ951J",
+                "joinedDate": 1705272758826,
+                "isAdmin?": false
+            }
+        }
+    },
+    "828129569": {
+        "name": "Zulhusni",
+        "maskedic": "998D",
+        "birthday": "2003-10-30",
+        "contact": "86574729",
+        "description": "None",
+        "primaryGroup": -4011831126,
+        "inGroups": {
+            "-4011831126": {
+                "memberName": "Zulhus998D",
+                "joinedDate": 1705313087366,
+                "isAdmin?": false
+            }
+        }
+    },
+    "1077699436": {
+        "name": "ZeKai",
+        "maskedic": "620H",
+        "birthday": "2004-11-01",
+        "contact": "90084568",
+        "description": "Hello I'm ur dyS4 :)",
+        "primaryGroup": -1002117963151,
+        "inGroups": {
+            "-1002117963151": {
+                "memberName": "ZeKai620H",
+                "joinedDate": 1704943213505,
+                "isAdmin?": false
+            },
+            "-4011831126": {
+                "memberName": "ZeKai620H",
+                "joinedDate": 1705312573108,
+                "isAdmin?": false
+            }
+        }
+    },
+    "1402928332": {
+        "name": "Mohd Irfan ",
+        "maskedic": "175D",
+        "birthday": "2003-10-14",
+        "contact": "+6589295809",
+        "description": "None",
+        "primaryGroup": -4011831126,
+        "inGroups": {
+            "-4011831126": {
+                "memberName": "MohdIr175D",
+                "joinedDate": 1705368479538,
+                "isAdmin?": false
+            }
+        }
+    },
+    "1978318531": {
+        "name": "Hie Dao Qiu",
+        "maskedic": "526G",
+        "birthday": "1987-07-14",
+        "contact": "97325805",
+        "description": "None",
+        "primaryGroup": -4011831126,
+        "inGroups": {
+            "-4011831126": {
+                "memberName": "HieDao526G",
+                "joinedDate": 1705314810610,
+                "isAdmin?": false
+            }
+        }
+    },
+    "6592467780": {
+        "name": "Westley Seow",
+        "maskedic": "162J",
+        "birthday": "2003-01-29",
+        "contact": "+6597775049",
+        "description": "None",
+        "primaryGroup": -4011831126,
+        "inGroups": {
+            "-4011831126": {
+                "memberName": "Westle162J",
+                "joinedDate": 1705368690033,
+                "isAdmin?": false
+            }
+        }
+    },
+    "6047885950": {
+        "name": "Muhd Saifuddin",
+        "maskedic": "367A",
+        "birthday": "1992-07-03",
+        "contact": "+6594467774",
+        "description": "None",
+        "primaryGroup": -4011831126,
+        "inGroups": {
+            "-4011831126": {
+                "memberName": "MuhdSa367A",
+                "joinedDate": 1705373387011,
+                "isAdmin?": false
+            }
+        }
+    },
+    "6476886611": {
+        "name": "Fayth",
+        "maskedic": "523B",
+        "birthday": "2003-01-12",
+        "contact": "90891702",
+        "description": "None",
+        "primaryGroup": -4046905507,
+        "inGroups": {
+            "-4046905507": {
+                "memberName": "Fayth523B",
+                "joinedDate": 1705721813832,
+                "isAdmin?": false
+            }
+        }
+    }
+}
